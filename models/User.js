@@ -1,5 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
-const sequelize = require('../config/connection');
+const sequelize = require('../config/config');
 //user credentials encryption
 const bcrypt = require('bcrypt');
 
@@ -11,7 +11,7 @@ class User extends Model {
       }
 }
 
-//define table columns and config
+//define table coluns and configuration
 User.init(
     {
         id: {
