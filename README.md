@@ -31,7 +31,7 @@ Once the server is running you can log in and start creating posts and commentin
 Run "npm install" to install the needed packages to run this app.
 
 ## Deployed Link <a name="deployed-link"></a>
-https://github.com/davevebber/blog
+https://davevebber.github.io/blog/
 
 ## Screenshots <a name="screenshots"></a>
 ![Screen Shot 2021-04-20 at 10 17 12 PM](https://user-images.githubusercontent.com/75150876/115500648-92c87600-a226-11eb-9dc7-9a3d1188b59f.png)
